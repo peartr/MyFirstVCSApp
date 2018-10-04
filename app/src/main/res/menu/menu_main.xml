@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ramon.myfirstvcsapp.MainActivity">
+    <item
+        android:id="@+id/action_git"
+        android:orderInCategory="1"
+        android:title="@string/action_git"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_github"
+        android:orderInCategory="1"
+        android:title="@string/action_github"
+        app:showAsAction="never" />
+</menu>
